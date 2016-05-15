@@ -1,19 +1,27 @@
+body {
+  background-image: url("http://img2-3.timeinc.net/toh/i/g/13/kitchens/08-color-cabinets/color-cabinets-x.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .profile {
-  background: lightgray;
-  background: url('https://flic.kr/p/id3uUg') no repaet center fixed;
+  font-size: 30px;
   padding: 10px;
   margin: 10px;
   text-align: center;
 }
 .profile h1 {
-   font-size: 16px;
+   font-size: 50px;
    text-transform: uppercase;
  }
-
+.profile img {
+   width: 480px;
+   height: ;
+   border-radius: 50px;
+ }
 html {
-  background: url('https://flic.kr/p/id3uUg') no repaet center fixed;
+  background: url('http://farm2.staticflickr.com/1100/1471214453_f7677b7816_b.jpg') no repaet center fixed;
   -webkit-background-size: cover;
-  -moz-backgroud-size: cover;
+  -moz-background-size: cover;
   -o-background-size: cover;
     background-size: cover;
 }
