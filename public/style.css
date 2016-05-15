@@ -4,3 +4,15 @@
   margin: 10px;
   text-align: center;
 }
+.profile h1 {
+   font-size: 16px;
+   text-transform: uppercase;
+ }
+
+html {
+  background: url('https://flic.kr/p/id3uUg') no repaet center fixed;
+  -webkit-background-size: cover;
+  -moz-backgroud-size: cover;
+  -o-background-size: cover;
+    background-size: cover;
+}
